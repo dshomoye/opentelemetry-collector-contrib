@@ -8,7 +8,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00 // indirect
 	go.opentelemetry.io/collector v0.21.1-0.20210302184358-0961efb54f1f
-	go.uber.org/zap v1.16.0
+	go.uber.org/zap v1.18.1
 	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
 	google.golang.org/grpc/examples v0.0.0-20200728194956-1c32b02682df // indirect
 )
